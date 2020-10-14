@@ -150,12 +150,12 @@ jobs:
           CONFIG_PACKAGE_luci-app-sfe=y
           CONFIG_PACKAGE_luci-app-samba4=y
           # CONFIG_PACKAGE_luci-app-p910nd=y
-          # CONFIG_PACKAGE_luci-app-mwan3=y
+          CONFIG_PACKAGE_luci-app-mwan3=y
           # CONFIG_PACKAGE_luci-app-cjdns=y
           # CONFIG_PACKAGE_luci-app-usb-printer=y
           # CONFIG_PACKAGE_luci-app-unbound=y
           # CONFIG_PACKAGE_luci-app-upnp=y
-          CONFIG_PACKAGE_luci-app-mwan=y
+          # CONFIG_PACKAGE_luci-app-mwan=y
           EOF
           
           # LuCI主题:
