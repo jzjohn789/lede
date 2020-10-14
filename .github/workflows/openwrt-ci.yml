@@ -147,8 +147,8 @@ jobs:
           CONFIG_PACKAGE_luci-app-ddns=y
           CONFIG_PACKAGE_luci-app-zerotier=y
           CONFIG_PACKAGE_luci-app-wol=y
-          # CONFIG_PACKAGE_luci-app-sfe=y
-          # CONFIG_PACKAGE_luci-app-samba4=y
+          CONFIG_PACKAGE_luci-app-sfe=y
+          CONFIG_PACKAGE_luci-app-samba4=y
           # CONFIG_PACKAGE_luci-app-p910nd=y
           # CONFIG_PACKAGE_luci-app-mwan3=y
           # CONFIG_PACKAGE_luci-app-cjdns=y
